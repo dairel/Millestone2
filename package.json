@@ -1,0 +1,29 @@
+{
+  "name": "miles",
+  "version": "1.0.0",
+  "description": "Teste Automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "testes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dairel/Milest2.git"
+  },
+  "author": "Dairel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dairel/Milest2/issues"
+  },
+  "homepage": "https://github.com/dairel/Milest2#readme",
+  "devDependencies": {
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-coverage": "^1.1.1",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.2"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}
